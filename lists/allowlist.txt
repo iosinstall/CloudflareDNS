@@ -235,4 +235,5 @@ s.youtube.com
 graph.facebook.com
 web1s.com
 pagead2.googlesyndication.com
-nhutnguyuyenminh2.github.io
+nhutgg.github.io
+install.appcenter.ms
